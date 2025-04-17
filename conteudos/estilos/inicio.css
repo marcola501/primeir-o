@@ -38,9 +38,10 @@
     color: white;
     text-decoration: none;
     font-weight: bold;
-    transition: transform 0.7s,font-size 0.7s;
+    transition: transform 0.7s,font-size 0.7s,font-weight 0.7s;
   }
   nav ul li a:hover{
+    font-weight: 200%;
     transform: scale(1.5);
     font-size: 125%;
   }
