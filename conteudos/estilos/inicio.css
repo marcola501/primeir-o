@@ -78,4 +78,12 @@
     color: #555;
     font-size: 14px;
   }
-  
+  span{
+    font-weight: bolder;
+    color: #007e33;
+  }
+  #autu{
+    color: #555;
+    display: block;
+    text-align: center;
+  }
