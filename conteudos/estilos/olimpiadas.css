@@ -19,7 +19,7 @@ div#topico{
     display: flex;
     text-align: left;
     flex-direction: column;
-    background-color: #b1afaf;
+    background-color: #cfcccc;
     padding: 1%;
     border-style: none;
     border-radius: 0px 4px 8px 8px;
@@ -42,10 +42,10 @@ button{
     font-weight: 700;
     font-size: 150%;
     color: #00ff66;
-    background-color: #b1afaf;
+    background-color: #cfcccc;
     border: none;
     text-decoration: none;
-    transition: font-size 1.6s;
+    transition: font-size 0.7s;
 }
 button:hover{
     cursor: pointer;
@@ -61,7 +61,7 @@ nav ul li a{
     color: white;
     cursor: pointer;
     text-decoration: none;
-    transition: all 1.25s;
+    transition: all 0.6s;
 }
 nav ul li a:hover{
     font-size: 180%;
